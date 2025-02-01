@@ -99,13 +99,5 @@ pipeline {
 }
 ```
 
-## Future Enhancements
-- Add **unit tests** for better coverage.
-- Implement **logging** with ELK.
-- Add **monitoring** with Prometheus & Grafana.
-
-## Contributing
-Feel free to fork the repository, create a feature branch, and submit a pull request!
-
 ## License
 This project is licensed under the **MIT License**.
