@@ -18,15 +18,6 @@ This project is a simple **Spring Boot** web application with REST APIs. It incl
 - **Jenkins**
 - **AWS ECS**
 
-## Endpoints
-### **1. Basic API**
-- `GET /` → Returns `"Hello from Spring Boot!"`
-- `GET /DevOps` → Returns `"Flow; fast feedback; learning & experimentation"`
-
-### **2. Parameterized API**
-- `POST /DevOps?name=Unit` → Returns `"Unit testing"` (default: `Unit`)
-- `POST /YorkU?name=Zoom` → Returns `"Zoom Day"` (default: `Zoom`)
-
 ## Setup & Installation
 ### **1. Clone the Repository**
 ```sh
