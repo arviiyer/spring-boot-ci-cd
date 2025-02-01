@@ -11,7 +11,7 @@ This project is a simple **Spring Boot** web application with REST APIs. It incl
 - Deploys to **AWS ECS**.
 
 ## Tech Stack
-- **Java 8** (IBM JRE)
+- **Java 8**
 - **Spring Boot 2.6.3**
 - **Maven**
 - **Docker**
