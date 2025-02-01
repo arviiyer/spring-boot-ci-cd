@@ -34,6 +34,8 @@ terraform.tfstate\*
 terraform.tfvars
 \*.tfplan
 crash.log
+terraform.tfstate
+terraform.tfstate.backup
 
 # Jenkins and CI/CD
 workspace/
