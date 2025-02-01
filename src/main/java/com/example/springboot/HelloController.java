@@ -10,7 +10,7 @@ public class HelloController {
 
 	@GetMapping("/")
 	public String index() {
-		return "Hello from Spring Boot!";
+		return "Hello from Spring Boot Version 2!!!";
 	}
 
 	@GetMapping("/DevOps")
